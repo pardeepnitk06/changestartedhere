@@ -1,0 +1,10 @@
+2Can 1.1.12
+5DragonsDeluxe	1.1.15
+5DragonsGold	1.1.15
+50Dragons	1.1.19
+50Lions	1.1.12
+AmazonTemple	1.0.12
+ArcticDreaming	1.0.10
+BigRed	1.1.13
+BigRed2	1.0.15
+BigTop	1.0.6
